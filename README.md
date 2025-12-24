@@ -1,17 +1,17 @@
-# Yasaswini Sri Tamanampudi – Portfolio
+# 👩‍💻 Yasaswini Sri Tamanampudi – Portfolio
 
-Personal portfolio website showcasing my projects, skills, and experience.
+✨ Personal portfolio website showcasing my projects, skills, and learning journey in tech.
 
-## Built With
-- React
-- Vite
-- HTML, CSS, JavaScript
+## 🛠️ Built With
+- ⚛️ React  
+- ⚡ Vite  
+- 🌐 HTML, CSS, JavaScript  
 
-## Features
-- Responsive design
-- Dark / Light mode
-- Project showcase
-- Resume download
+## 🚀 Features
+- 📱 Responsive design  
+- 🌙 Dark / Light mode  
+- 💼 Project showcase  
+- 📄 Resume download  
 
-## Live Demo
-🔗 https://yashujg.github.io/portfolio/
+## 🔗 Live Demo
+👉 https://yashujg.github.io/portfolio/
